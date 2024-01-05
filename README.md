@@ -11,8 +11,8 @@ pyfiglet  ===> To Install => pip install pyfiglet
 
 termcolor ===> To Install => pip install termcolor
 
-Be sure to update your Linux repository => 
+Be sure to update your Linux repository ==> 
 sudo apt update 
 
-The program itself install the nmap utility, but you can also install it yourself => 
+The program itself install the nmap utility, but you can also install it yourself  ==> 
 sudo apt install nmap 

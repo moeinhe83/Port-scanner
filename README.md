@@ -1,4 +1,3 @@
-This Script Is One Port Scanner
 
 This Script Is A Port Scanner
 

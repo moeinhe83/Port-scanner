@@ -6,7 +6,7 @@ Important ===> Run This Script On Linux [Ubuntu Or Kali]
 
 Required packages For Python
 ============================
-pyfiglet  ===> To Install => pip install pyfiglet
+pyfiglet  ===> To Install => pip install pyfiglet /
 termcolor ===> To Install => pip install termcolor
 
 Be sure to update your Linux repository

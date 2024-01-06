@@ -19,4 +19,3 @@ sudo apt update
 The program itself install the nmap utility, but you can also install it yourself  ==> 
 sudo apt install nmap 
 
-Please do not clone this repo and publish it as your own, fork the repo if you wish to publish any changes.

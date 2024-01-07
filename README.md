@@ -1,11 +1,10 @@
-This Script Is A Port Scanner
+This Python Script Is A Port Scanner
 
 Name Project ===> Port Scanner
 
 Programming language ===> Python
 
 Important ===> Run This Script On Linux [Ubuntu Or Kali]
-
 
 Required packages For Python
 

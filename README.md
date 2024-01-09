@@ -1,5 +1,7 @@
 This Python Script Is A Port Scanner
 
+This Program Is To Scan The Ports Of Your Site Or System 
+
 Name Project ===> Port Scanner
 
 Programming language ===> Python

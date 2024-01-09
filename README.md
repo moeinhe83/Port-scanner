@@ -20,3 +20,4 @@ sudo apt update
 The program itself install the nmap utility, but you can also install it yourself  ==> 
 sudo apt install nmap 
 
+To Run The Program ==> python portscanner.py

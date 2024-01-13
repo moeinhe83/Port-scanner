@@ -1,4 +1,4 @@
-Name Project ===> Port Scanner
+Program Name ===> Port Scanner
 
 This Python Script Is A Port Scanner
 

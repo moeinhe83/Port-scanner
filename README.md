@@ -8,7 +8,7 @@ Programming language ===> Python
 
 Important ===> Run This Script On Linux [Ubuntu Or Kali]
 
-Required Python packages for this program
+Required Python packages for this program ===> pyfiglet
 
 pyfiglet  ===> To Install => pip install pyfiglet 
 

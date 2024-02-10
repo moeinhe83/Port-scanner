@@ -16,8 +16,7 @@ termcolor ===> To Install => pip install termcolor
 
 Be sure to update your Linux repository ==> sudo apt update 
 
-The program itself install the nmap utility, but you can also install it yourself  ==> 
-sudo apt install nmap 
+The program itself install the nmap utility, but you can also install it yourself  ==> sudo apt install nmap 
 
 Notice ===> Please Use This Program For The Security Of Your Site And System
 
